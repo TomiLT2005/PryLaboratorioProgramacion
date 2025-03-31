@@ -12,7 +12,7 @@ namespace PryLaboratorioProgramacion
         {
             Console.WriteLine("¡Lindo viernes para estar con Visual Studio 2022!");
             Console.WriteLine("Cambios en el código");
-            Console.WriteLine("Otros Cambias");
+           
         }
     }
 }
